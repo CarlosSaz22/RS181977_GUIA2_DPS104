@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RS181977_GUIA2_DPS104/static/css/main.d40f2b6f.chunk.css",
+    "main.js": "/RS181977_GUIA2_DPS104/static/js/main.52a78d69.chunk.js",
+    "main.js.map": "/RS181977_GUIA2_DPS104/static/js/main.52a78d69.chunk.js.map",
+    "runtime-main.js": "/RS181977_GUIA2_DPS104/static/js/runtime-main.2522346d.js",
+    "runtime-main.js.map": "/RS181977_GUIA2_DPS104/static/js/runtime-main.2522346d.js.map",
+    "static/js/2.f39070cd.chunk.js": "/RS181977_GUIA2_DPS104/static/js/2.f39070cd.chunk.js",
+    "static/js/2.f39070cd.chunk.js.map": "/RS181977_GUIA2_DPS104/static/js/2.f39070cd.chunk.js.map",
+    "static/js/3.781d4dae.chunk.js": "/RS181977_GUIA2_DPS104/static/js/3.781d4dae.chunk.js",
+    "static/js/3.781d4dae.chunk.js.map": "/RS181977_GUIA2_DPS104/static/js/3.781d4dae.chunk.js.map",
+    "index.html": "/RS181977_GUIA2_DPS104/index.html",
+    "static/css/main.d40f2b6f.chunk.css.map": "/RS181977_GUIA2_DPS104/static/css/main.d40f2b6f.chunk.css.map",
+    "static/js/2.f39070cd.chunk.js.LICENSE.txt": "/RS181977_GUIA2_DPS104/static/js/2.f39070cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2522346d.js",
+    "static/js/2.f39070cd.chunk.js",
+    "static/css/main.d40f2b6f.chunk.css",
+    "static/js/main.52a78d69.chunk.js"
+  ]
+}
